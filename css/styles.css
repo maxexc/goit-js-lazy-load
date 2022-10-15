@@ -39,6 +39,6 @@ img {
 
 .feed img.appear {
   /* transform: rotateX(0); */
-  transform: rotateY(0);
+  /* transform: rotateY(0); */
   opacity: 1;
 }
