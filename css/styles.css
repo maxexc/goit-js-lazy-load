@@ -42,17 +42,3 @@ img {
   transform: rotateY(0);
   opacity: 1;
 }
-
-.section {
-  padding-top: 40px;
-  padding-bottom: 40px;
-}
-
-button,
-label {
-  cursor: pointer;
-}
-
-input {
-  font: inherit;
-}
