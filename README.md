@@ -1,1 +1,1 @@
-# goit-js-lazy-load
+lazy-load=js
