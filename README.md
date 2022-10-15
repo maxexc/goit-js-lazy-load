@@ -1,1 +1,1 @@
-lazy-load=js
+lazy-load-js
