@@ -286,7 +286,11 @@
       </li>
     </ul>
 
-    <script src="./js/script.js" type="module" defer></script>
+    <script src="./js/script.js" type="module"></script>
+    <!-- <script src="./js/script.js" defer></script> -->
     <!-- defer позволяет разместить скрипт где угодно, выплняется после главного кода, даже в <head> -->
+    <!-- <script type="module" defer></script> When the defer attribute is configured for 
+      a module script, this attribute has no effect. Because module scripts are “defer” by default. -->
+    <!-- https://levelup.gitconnected.com/html-script-element-attributes-async-vs-defer-vs-type-module-610b50a79dbd -->
   </body>
 </html>
